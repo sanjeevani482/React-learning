@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    margin: 20px;
+}
+button img{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+}
